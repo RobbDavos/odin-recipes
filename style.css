@@ -1,0 +1,36 @@
+* {
+ font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: white;
+  background-color: black;
+  text-align: center;
+  font-size: 50px;
+  font-weight: 700;
+}
+
+.home-list {
+  font-size: 30px;
+  font-weight: 500;
+}
+
+.home-img {
+  height: auto;
+  width: 100px;
+}
+
+.page-img {
+  height: auto;
+  width: 300px;
+}
+
+.description {
+  font-size: 15px;
+  color: blue;
+}
+
+.back {
+  font-size: 20px;
+  text-align: center;
+}
